@@ -1,0 +1,299 @@
+{
+  "title": "The Master Python Book",
+  "subtitle": "Interview-ready Python notes \u2014 Foundations to Advanced",
+  "parts": [
+    {
+      "id": "part1",
+      "label": "Part 1",
+      "title": "Python Foundations",
+      "chapters": [
+        {
+          "id": "ch01",
+          "num": 1,
+          "title": "Introduction & Python's Execution Model",
+          "file": "content/python/part1/ch01.md"
+        },
+        {
+          "id": "ch02",
+          "num": 2,
+          "title": "Environment & Tooling",
+          "file": "content/python/part1/ch02.md"
+        },
+        {
+          "id": "ch03",
+          "num": 3,
+          "title": "Variables, Objects & Identity",
+          "file": "content/python/part1/ch03.md"
+        },
+        {
+          "id": "ch04",
+          "num": 4,
+          "title": "Built-in Data Types & the Type System",
+          "file": "content/python/part1/ch04.md"
+        },
+        {
+          "id": "ch05",
+          "num": 5,
+          "title": "Operators & Expressions",
+          "file": "content/python/part1/ch05.md"
+        },
+        {
+          "id": "ch06",
+          "num": 6,
+          "title": "Input/Output & String Formatting",
+          "file": "content/python/part1/ch06.md"
+        },
+        {
+          "id": "ch07",
+          "num": 7,
+          "title": "Control Flow",
+          "file": "content/python/part1/ch07.md"
+        },
+        {
+          "id": "ch08",
+          "num": 8,
+          "title": "Strings & Text",
+          "file": "content/python/part1/ch08.md"
+        },
+        {
+          "id": "ch09",
+          "num": 9,
+          "title": "Core Collections: Lists, Tuples, Sets, Dictionaries",
+          "file": "content/python/part1/ch09.md"
+        }
+      ]
+    },
+    {
+      "id": "part2",
+      "label": "Part 2",
+      "title": "Core Python Programming",
+      "chapters": [
+        {
+          "id": "ch10",
+          "num": 10,
+          "title": "Functions In-Depth",
+          "file": "content/python/part2/ch10.md"
+        },
+        {
+          "id": "ch11",
+          "num": 11,
+          "title": "Closures & Recursion",
+          "file": "content/python/part2/ch11.md"
+        },
+        {
+          "id": "ch12",
+          "num": 12,
+          "title": "Functional Programming Tools",
+          "file": "content/python/part2/ch12.md"
+        },
+        {
+          "id": "ch13",
+          "num": 13,
+          "title": "Iterables & Iterators",
+          "file": "content/python/part2/ch13.md"
+        },
+        {
+          "id": "ch14",
+          "num": 14,
+          "title": "Generators",
+          "file": "content/python/part2/ch14.md"
+        },
+        {
+          "id": "ch15",
+          "num": 15,
+          "title": "Modules & Packages",
+          "file": "content/python/part2/ch15.md"
+        },
+        {
+          "id": "ch16",
+          "num": 16,
+          "title": "Exceptions In-Depth",
+          "file": "content/python/part2/ch16.md"
+        },
+        {
+          "id": "ch17",
+          "num": 17,
+          "title": "File Handling & Data Formats",
+          "file": "content/python/part2/ch17.md"
+        },
+        {
+          "id": "ch18",
+          "num": 18,
+          "title": "OOP Foundations",
+          "file": "content/python/part2/ch18.md"
+        },
+        {
+          "id": "ch19",
+          "num": 19,
+          "title": "OOP Mechanics: Methods, MRO, Properties, Magic Methods, Dataclasses",
+          "file": "content/python/part2/ch19.md"
+        }
+      ]
+    },
+    {
+      "id": "part3",
+      "label": "Part 3",
+      "title": "Advanced Python",
+      "chapters": [
+        {
+          "id": "ch01",
+          "num": 1,
+          "title": "The Python Data Model & Object Model",
+          "file": "content/python/part3/ch01.md"
+        },
+        {
+          "id": "ch02",
+          "num": 2,
+          "title": "Descriptors",
+          "file": "content/python/part3/ch02.md"
+        },
+        {
+          "id": "ch03",
+          "num": 3,
+          "title": "Decorators, Closures & Late Binding",
+          "file": "content/python/part3/ch03.md"
+        },
+        {
+          "id": "ch04",
+          "num": 4,
+          "title": "Context Managers",
+          "file": "content/python/part3/ch04.md"
+        },
+        {
+          "id": "ch05",
+          "num": 5,
+          "title": "Memory Management",
+          "file": "content/python/part3/ch05.md"
+        },
+        {
+          "id": "ch06",
+          "num": 6,
+          "title": "Introspection & Metaclasses",
+          "file": "content/python/part3/ch06.md"
+        },
+        {
+          "id": "ch07",
+          "num": 7,
+          "title": "Advanced Generators",
+          "file": "content/python/part3/ch07.md"
+        },
+        {
+          "id": "ch08",
+          "num": 8,
+          "title": "Type Hints & Modern Typing",
+          "file": "content/python/part3/ch08.md"
+        },
+        {
+          "id": "ch09",
+          "num": 9,
+          "title": "Regex & datetime",
+          "file": "content/python/part3/ch09.md"
+        },
+        {
+          "id": "ch10",
+          "num": 10,
+          "title": "Pattern Matching & Assignment Expressions",
+          "file": "content/python/part3/ch10.md"
+        },
+        {
+          "id": "ch11",
+          "num": 11,
+          "title": "Concurrency I \u2014 Threading",
+          "file": "content/python/part3/ch11.md"
+        },
+        {
+          "id": "ch12",
+          "num": 12,
+          "title": "Concurrency II \u2014 Multiprocessing",
+          "file": "content/python/part3/ch12.md"
+        },
+        {
+          "id": "ch13",
+          "num": 13,
+          "title": "Concurrency III \u2014 asyncio",
+          "file": "content/python/part3/ch13.md"
+        }
+      ]
+    },
+    {
+      "id": "part4",
+      "label": "Part 4",
+      "title": "Standard Library, Practical Python & Interview Mastery",
+      "chapters": [
+        {
+          "id": "ch01",
+          "num": 1,
+          "title": "Core Data & Math Utilities",
+          "file": "content/python/part4/ch01.md"
+        },
+        {
+          "id": "ch02",
+          "num": 2,
+          "title": "System, Files & CLI Tooling",
+          "file": "content/python/part4/ch02.md"
+        },
+        {
+          "id": "ch03",
+          "num": 3,
+          "title": "Dev-Tool Modules \u2014 dataclasses, enum, logging, and more",
+          "file": "content/python/part4/ch03.md"
+        },
+        {
+          "id": "ch04",
+          "num": 4,
+          "title": "Virtual Environments & Dependency Management",
+          "file": "content/python/part4/ch04.md"
+        },
+        {
+          "id": "ch05",
+          "num": 5,
+          "title": "Testing \u2014 unittest, pytest, Fixtures, Mocking",
+          "file": "content/python/part4/ch05.md"
+        },
+        {
+          "id": "ch06",
+          "num": 6,
+          "title": "Debugging Practice & Practical Projects",
+          "file": "content/python/part4/ch06.md"
+        },
+        {
+          "id": "ch07",
+          "num": 7,
+          "title": "Master Interview Question Bank",
+          "file": "content/python/part4/ch07.md"
+        },
+        {
+          "id": "ch08",
+          "num": 8,
+          "title": "Final Revision & Interview Checklist",
+          "file": "content/python/part4/ch08.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "label": "Appendix",
+      "title": "Reference & Audit Notes",
+      "chapters": [
+        {
+          "id": "audit",
+          "num": 1,
+          "title": "Final Master Syllabus Audit",
+          "file": "content/python/appendix/final_master_audit.md"
+        },
+        {
+          "id": "p3manifest",
+          "num": 2,
+          "title": "Part 3 Completion Manifest",
+          "file": "content/python/appendix/part3_completion_manifest.md"
+        },
+        {
+          "id": "p4manifest",
+          "num": 3,
+          "title": "Part 4 Completion Manifest",
+          "file": "content/python/appendix/part4_completion_manifest.md"
+        }
+      ]
+    }
+  ]
+}

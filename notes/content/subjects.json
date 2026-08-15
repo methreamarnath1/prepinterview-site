@@ -1,0 +1,20 @@
+{
+  "siteTitle": "PrepInterview",
+  "siteSubtitle": "Your interview prep library",
+  "subjects": [
+    {
+      "id": "python",
+      "label": "Python",
+      "description": "Interview-ready Python notes — Foundations to Advanced, 43 chapters",
+      "accent": "#0072F5",
+      "manifest": "content/python/manifest.json"
+    },
+    {
+      "id": "oracle-sql",
+      "label": "Oracle SQL",
+      "description": "Interview-ready Oracle SQL notes — fundamentals and Oracle-specific SQL",
+      "accent": "#F59E0B",
+      "manifest": "content/oracle-sql/manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Oracle SQL",
+  "subtitle": "Interview-ready Oracle SQL notes",
+  "parts": [
+    {
+      "id": "part1",
+      "label": "Part 1",
+      "title": "Database Foundations, Oracle Basics & SQL Fundamentals",
+      "chapters": [
+        {
+          "id": "p1",
+          "num": 1,
+          "title": "Part 1 — Database Foundations",
+          "file": "content/oracle-sql/oracle_sql_master_book_part1.md"
+        }
+      ]
+    },
+    {
+      "id": "part2",
+      "label": "Part 2",
+      "title": "Core SQL, Functions, Aggregation, Grouping & NULL",
+      "chapters": [
+        {
+          "id": "p2",
+          "num": 1,
+          "title": "Part 2 — Core SQL & Functions",
+          "file": "content/oracle-sql/oracle_sql_master_book_part2.md"
+        }
+      ]
+    },
+    {
+      "id": "part3",
+      "label": "Part 3",
+      "title": "Joins, Subqueries, Set Operators, Views, Sequences, Indexes, Transactions & Oracle-Specific SQL",
+      "chapters": [
+        {
+          "id": "p3",
+          "num": 1,
+          "title": "Part 3 — Joins and Advanced Topics",
+          "file": "content/oracle-sql/oracle_sql_master_book_part3.md"
+        }
+      ]
+    }
+    ,
+    {
+      "id": "part4",
+      "label": "Part 4",
+      "title": "Query Execution, Query Writing, Debugging, Performance & Interview Master Class",
+      "chapters": [
+        {
+          "id": "p4",
+          "num": 1,
+          "title": "Part 4 — Query Execution & Performance",
+          "file": "content/oracle-sql/oracle_sql_master_book_part4.md"
+        }
+      ]
+    }
+  ]
+}
